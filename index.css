@@ -1,0 +1,85 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Oswald', sans-serif;
+}
+
+header {
+    font-size: 20px;
+    text-align: center;
+    padding: 30px;
+}
+
+h1, h2 {
+    margin: 0;
+    padding: 0;
+}
+
+.title {
+    font-style: italic;
+    
+}
+
+.author {
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 50px;
+    margin-top: 10px;
+}
+
+.title, .author {
+    text-align: center;
+    
+}
+
+.book {
+    width: 150px;
+    margin: 40px 0px;
+    border: 10px solid;
+    cursor: pointer;
+}
+
+.flex {
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.modal {
+    display: none;
+    position: fixed;
+    right: 0;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    height: 550px;
+    width: 350px;
+    border-radius: 5px;
+    background-color: #212529;
+    color: whitesmoke;
+}
+
+.modal-inner{
+    width: 290px;
+    margin: 0 auto;
+}
+
+.close-modal-btn-container{
+    text-align: right;
+    margin: 9px;
+}
+
+.modal-close-btn {
+    font-size: 22px;
+    font-weight: bold;
+    background-color: transparent;
+    border: 1px solid transparent;
+    color: whitesmoke;
+}
+
+.modal-close-btn:hover,
+modal-close-btn:active{
+    color: red;
+    cursor: pointer;
+}
