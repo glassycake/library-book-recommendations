@@ -17,11 +17,11 @@ h1, h2 {
 
 .title {
     font-style: italic;
-    
+    font-size: 50px
 }
 
 .author {
-    font-size: 15px;
+    font-size: 45px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin-bottom: 50px;
     margin-top: 10px;
