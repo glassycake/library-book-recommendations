@@ -21,7 +21,7 @@ h1, h2 {
 }
 
 .author {
-    font-size: 45px;
+    font-size: 30px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin-bottom: 50px;
     margin-top: 10px;
@@ -61,7 +61,7 @@ h1, h2 {
 }
 
 .modal-inner{
-    width: 290px;
+    width: 575px;
     margin: 0 auto;
 }
 
