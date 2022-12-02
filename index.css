@@ -88,3 +88,7 @@ modal-close-btn:active{
     color: red;
     cursor: pointer;
 }
+
+.youtube-video {
+    text-align: center;
+}
