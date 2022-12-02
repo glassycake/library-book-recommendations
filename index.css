@@ -33,9 +33,9 @@ h1, h2 {
 }
 
 .book {
-    width: 300px;
-    margin: 80px 0px;
-    border: 20px solid;
+    width: 250px;
+    margin: 60px 0px;
+    border: 18px solid;
     cursor: pointer;
 }
 
