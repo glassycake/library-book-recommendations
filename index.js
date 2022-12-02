@@ -53,7 +53,7 @@ bookOne.addEventListener("click", function(){
     modalTitle.textContent += books[0].title
     modalAuthor.textContent += books[0].author
     modalText.textContent += books[0].blurb
-    modalVideo.innerHTML = `<iframe width="300" height="200" src="https://www.youtube.com/embed/${books[0].url}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
+    modalVideo.innerHTML = `<iframe width="425" height="250" src="https://www.youtube.com/embed/${books[0].url}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
 })
 
 bookTwo.addEventListener("click", function(){
