@@ -67,7 +67,7 @@ bookTwo.addEventListener("click", function(){
     modalTitle.textContent += books[1].title
     modalAuthor.textContent += books[1].author
     modalText.textContent += books[1].blurb
-    modalVideo.innerHTML = `<iframe width="300" height="200" src="https://www.youtube.com/embed/${books[1].url}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
+    modalVideo.innerHTML = `<iframe width="425" height="250" src="https://www.youtube.com/embed/${books[1].url}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
 })
 
 bookThree.addEventListener("click", function(){
@@ -81,7 +81,7 @@ bookThree.addEventListener("click", function(){
     modalTitle.textContent += books[2].title
     modalAuthor.textContent += books[2].author
     modalText.textContent += books[2].blurb
-    modalVideo.innerHTML = `<iframe width="300" height="200" src="https://www.youtube.com/embed/${books[2].url}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
+    modalVideo.innerHTML = `<iframe width="425" height="250" src="https://www.youtube.com/embed/${books[2].url}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
 })
 
 bookFour.addEventListener("click", function(){
@@ -95,6 +95,6 @@ bookFour.addEventListener("click", function(){
     modalTitle.textContent += books[3].title
     modalAuthor.textContent += books[3].author
     modalText.textContent += books[3].blurb
-    modalVideo.innerHTML = `<iframe width="300" height="200" src="https://www.youtube.com/embed/${books[3].url}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
+    modalVideo.innerHTML = `<iframe wwidth="425" height="250" src="https://www.youtube.com/embed/${books[3].url}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
 })
 
