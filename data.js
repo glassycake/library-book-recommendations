@@ -7,11 +7,11 @@ export const books = [
     url: "E21NKO8Oe6U"
 },
 {
-    title: "The Getaway",
-    author: "Lamar Giles",
+    title: "How to Become a Straight-A Student",
+    author: "Cal Newport",
     img: "book-two.jpg",
-    blurb: "Jay is living his best life at Karloff Country, one of the world’s most famous resorts. He’s got his family, his crew, and an incredible after-school job at the property’s main theme park. Life isn’t so great for the rest of the world, but when people come here to vacation, it’s to get away from all that.",
-    url: "pplnjhv5uMw"
+    blurb: "Is it possible to get straight-As without spending every extra second studying? Yes, yes, it is. In How to Become a Straight-A Student, Cal Newport summarizes the note-taking, studying, and essay-writing strategies of 200 Ivy League, Straight-A students. This book explains how to prioritize your work and focus on the things that will lead to good grades.",
+    url: "PsFtQq-esh4"
 },
 {
     title: "The Life and Crimes of Hoodie Rosen",
